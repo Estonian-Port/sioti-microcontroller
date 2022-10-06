@@ -1,2 +1,2 @@
-# siote-microcontroller
-Sistema de IOT para Empresas
+# sioti-microcontroller
+Sistema de IOT para Industrias
